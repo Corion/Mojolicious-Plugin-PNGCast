@@ -2,12 +2,6 @@
 [![Travis Build Status](https://travis-ci.org/Corion/Mojolicious-Plugin-PNGCast.svg?branch=master)](https://travis-ci.org/Corion/Mojolicious-Plugin-PNGCast)
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/Corion/Mojolicious-Plugin-PNGCast?branch=master&svg=true)](https://ci.appveyor.com/project/Corion/Mojolicious-Plugin-PNGCast)
 
-CONTRIBUTING
-
-See lib/WWW/Mechanize/Chrome/Contributing.pod
-
-[Google Keep Extraction](https://github.com/Corion/WWW-Mechanize-Chrome/raw/master/demo/keep-export-demo.mp4)
-
 # NAME
 
 Mojolicious::Plugin::PNGCast - in-process server to display a screencast
