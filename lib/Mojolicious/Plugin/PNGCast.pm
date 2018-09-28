@@ -52,9 +52,9 @@ has 'last_frame'      => undef;
 
 =head1 HELPERS
 
-=head2 C<< send_frame >>
+=head2 C<< app->send_frame >>
 
-    send_frame( $png_data );
+    app->send_frame( $png_data );
 
 Sends a frame to all connected clients. If a fresh client connects, it will
 receive the last frame handed to C<send_frame>.
