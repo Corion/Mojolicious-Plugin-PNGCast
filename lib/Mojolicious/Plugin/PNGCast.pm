@@ -25,6 +25,7 @@ a Chrome screencast using L<WWW::Mechanize::Chrome>.
 =head1 SYNOPSIS
 
     use Mojolicious::Lite;
+    use Mojo::Server::Daemon;
     use WWW::Mechanize::Chrome;
     plugin 'PNGCast';
 
@@ -34,6 +35,7 @@ a Chrome screencast using L<WWW::Mechanize::Chrome>.
     $ws_monitor->listen([$daemon_url]);
     $ws_monitor->start;
 
+    my $mech = WWW::Mechanize::Chrome->new( headless => 1 );
     $mech->setScreenFrameCallback( sub {
         app->send_frame( $_[1]->{data} )}
     );
