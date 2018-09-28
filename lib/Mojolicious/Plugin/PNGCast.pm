@@ -175,7 +175,7 @@ This stops the complete Mojolicious application
 =head1 REPOSITORY
 
 The public repository of this module is
-L<https://github.com/Corion/www-mechanize-chrome>.
+L<https://github.com/Corion/Mojolicious-Plugin-PNGCast>.
 
 =head1 SUPPORT
 
@@ -184,12 +184,8 @@ The public support forum of this module is L<https://perlmonks.org/>.
 =head1 BUG TRACKER
 
 Please report bugs in this module via the RT CPAN bug queue at
-L<https://rt.cpan.org/Public/Dist/Display.html?Name=WWW-Mechanize-Chrome>
-or via mail to L<www-mechanize-Chrome-Bugs@rt.cpan.org|mailto:www-mechanize-Chrome-Bugs@rt.cpan.org>.
-
-=head1 CONTRIBUTING
-
-Please see L<WWW::Mechanize::Chrome::Contributing>.
+L<https://rt.cpan.org/Public/Dist/Display.html?Name=Mojolicious-Plugin-PNGCast>
+or via mail to L<Mojolicious-Plugin-PNGCast-Bugs@rt.cpan.org|mailto:Mojolicious-Plugin-PNGCast-Bugs@rt.cpan.org>.
 
 =head1 AUTHOR
 

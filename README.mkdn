@@ -80,7 +80,7 @@ This plugin makes the following endpoints available
 # REPOSITORY
 
 The public repository of this module is
-[https://github.com/Corion/www-mechanize-chrome](https://github.com/Corion/www-mechanize-chrome).
+[https://github.com/Corion/Mojolicious-Plugin-PNGCast](https://github.com/Corion/Mojolicious-Plugin-PNGCast).
 
 # SUPPORT
 
@@ -89,12 +89,8 @@ The public support forum of this module is [https://perlmonks.org/](https://perl
 # BUG TRACKER
 
 Please report bugs in this module via the RT CPAN bug queue at
-[https://rt.cpan.org/Public/Dist/Display.html?Name=WWW-Mechanize-Chrome](https://rt.cpan.org/Public/Dist/Display.html?Name=WWW-Mechanize-Chrome)
-or via mail to [www-mechanize-Chrome-Bugs@rt.cpan.org](mailto:www-mechanize-Chrome-Bugs@rt.cpan.org).
-
-# CONTRIBUTING
-
-Please see [WWW::Mechanize::Chrome::Contributing](https://metacpan.org/pod/WWW::Mechanize::Chrome::Contributing).
+[https://rt.cpan.org/Public/Dist/Display.html?Name=Mojolicious-Plugin-PNGCast](https://rt.cpan.org/Public/Dist/Display.html?Name=Mojolicious-Plugin-PNGCast)
+or via mail to [Mojolicious-Plugin-PNGCast-Bugs@rt.cpan.org](mailto:Mojolicious-Plugin-PNGCast-Bugs@rt.cpan.org).
 
 # AUTHOR
 
